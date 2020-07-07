@@ -164,21 +164,6 @@
 \setfontfamily\FA[Path=\@fontdir]{FontAwesome}
 % Set font for header (default is Roboto)
 \setfontfamily\headerfont[
-<<<<<<< Updated upstream
-Path=\@fontdir,
-UprightFont=*-Regular,
-ItalicFont=*-Italic,
-BoldFont=*-Bold,
-BoldItalicFont=*-BoldItalic,
-]{Roboto}
-
-\setfontfamily\headerfontlight[
-Path=\@fontdir,
-UprightFont=*-Thin,
-ItalicFont=*-ThinItalic,
-BoldFont=*-Medium,
-BoldItalicFont=*-MediumItalic,
-=======
   Path=\@fontdir,
   UprightFont=*-Regular,
   ItalicFont=*-Italic,
@@ -192,7 +177,6 @@ BoldItalicFont=*-MediumItalic,
   ItalicFont=*-ThinItalic,
   BoldFont=*-Medium,
   BoldItalicFont=*-MediumItalic,
->>>>>>> Stashed changes
 ]{Roboto}
 
 \newcommand*{\footerfont}{\sourcesanspro}
